@@ -31,3 +31,9 @@ body {
 .todos {
   margin-top: 30;
 }
+
+.paraStyle {
+  margin: 0;
+  cursor: pointer;
+  font-size: 25px;
+}
